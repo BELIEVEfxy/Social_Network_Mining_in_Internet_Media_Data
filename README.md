@@ -1,4 +1,4 @@
-# 互联网媒体数据中的社交网络挖掘(Social Network Mining in Internet Media Data)
+# 互联网媒体数据中的社交网络挖掘(Social Network Mining in Internet Media Data)  [2018-12]
 给定一批新闻数据，从中挖掘出这些新闻中的社交网络关系。
 
 ## 1. 数据集
