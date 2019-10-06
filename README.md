@@ -1,0 +1,2 @@
+# Social_Network_Mining_in_Internet_Media_Data
+提取每条新闻中的人名，假设在同一条新闻的人物具有联系，建立新闻人物的社交网络，并进一步探索网络的性质。
